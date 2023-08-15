@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elschopi
 - 👀 I’m interested in all things electronics, 3D printing, tools and mechanical stuff
-- 🌱 I’m currently studying systems engineering, besides working as a electronics professional (production / QA)
+- 🌱 Besides working as a electronics professional (production / QA), I offer 3D printing, design and consultation services
 - 📫 How to reach me: github, email
 
 <!---
